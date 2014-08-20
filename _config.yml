@@ -18,10 +18,10 @@ author:
 paginate:	5
 
 # Custom vars
-icon:       /assets/images/logo-white.png
-iconsmall:  /assets/images/logo-small-white.png
-iconmedium:  /assets/images/logo-medium-white.png
-cover:		  /assets/images/cover.jpg
+icon:       assets/images/logo-white.png
+iconsmall:  assets/images/logo-small-white.png
+iconmedium:  assets/images/logo-medium-white.png
+cover:		  assets/images/cover.jpg
 
 social:
   - icon:	twitter
