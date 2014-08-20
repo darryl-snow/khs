@@ -1,0 +1,40 @@
+---
+layout: page
+title: Beer is never the answer, it's the question. The answer is "yes please".
+---
+
+# About the Kunming Homebrewing Society
+#### The society dedicated to everything about drinking and brewing craft beer, mead, and cider in Kunming, China.
+
+![Kunming Homebrewing Society Logo](/assets/images/logo-red.png)
+
+Brewing is both an art and a science - understanding the science and appreciating the artwork will help you enjoy beer even more. It's not always easy to find all the safe and reliable equipment and quality ingredients in China and so meeting up with other homebrewers is the best way to learn what you need to know.
+
+Our organisation is dedicated to spreading the knowledge, culture, and appreciation of real beer in China. Membership is open to everyone, no matter brewing experience - everyone from professional brewers to beginners preparing to brew their first batch. We meet on the 3rd Saturday of every month at a different Kunming bar each time. A meeting will include a short presentation on a brewing topic, welcoming new members, open discussions, and of course beer tasting. We encourage everyone to bring samples of their homebrew for everyone to taste!
+
+**Annual membership fee**: ¥200 (¥300 for families) 
+
+**Beer tasting fees**: ¥40 for non-members, ¥20 for members 
+
+Everyone is free to attend meetups even if you're not a member. Fees are **entirely optional** and are collected to pay for an ingredients co-op for members and to cover costs of beer tasting, general admin, and participating in brew festivals. Membership runs annually starting each Chinese New Year and you can join at any of our monthly meetups.
+
+<div class="message">
+	<p>I look forward to raising a glass with you soon.</p>
+	<p><strong>Darryl Snow</strong>,<br>
+	<em>President, the Kunming Homebrewing Society</em></p>
+</div>
+
+### How to get involved
+
+* If you'd like to get in touch with us then feel free to email [info@kunmingbeer.org](mailto:info@kunmingbeer.org)
+
+* Keep checking this site for updates about upcoming events, or otherwise follow us on [Twitter](https://twitter.com/kunmingbeer), [Facebook](https://facebook.com/kunmingbeer), or [Weibo](http://www.weibo.com/u/5228263128).
+
+* Better yet, join our Wechat group:
+
+![KHS Wechat Group QR Code](/media/2014-08-20-inaugural-meetup/qr-code.jpg)
+
+### Handy Links
+
+* [Current Members](/members.html)
+* [Useful Files](/files.html)

@@ -1,0 +1,60 @@
+# Dependencies
+markdown:	redcarpet
+pygments:	true
+
+# Permalinks
+permalink:	/:title
+
+# Setup
+title:		    昆明自酿啤酒协会 Kunming Homebrewing Society
+tagline:      'Brewing beer at home in Kunming 在昆明自酿啤酒'
+description:	'The society dedicated to everything about drinking and brewing craft beer, mead, and cider in Kunming, China. 昆明自酿啤酒协会”是为对自酿啤酒、苹果酒和蜂蜜酒感兴趣的朋友提供的一个分享、交流和学习的平台。We organise monthly events, discussions, and beer tastings, classes and workshops, as well as sponsor an ingredients cooperative. 我们致力于在昆明传播知识、文化和欣赏真正的啤酒。协会是向所有人开放的，无论您是新手还是老手。我们将定期于每个月的第三个周六开展酒吧聚会，地点会安排于不同的酒吧，每次聚会将会根据一个自酿酒话题进行演讲、讨论等，当然还有啤酒品尝！聚会中，我们鼓励大家带自酿的啤酒给大家品尝！欢迎所有感兴趣的朋友参加聚会，即使您不是我们的会员。'
+url:          http://kunmingbeer.org
+
+author:
+  name:       'Darryl Snow'
+  url:        https://yourweb.expert
+
+paginate:	5
+
+# Custom vars
+icon:       /assets/images/logo-white.png
+iconsmall:  /assets/images/logo-small-white.png
+iconmedium:  /assets/images/logo-medium-white.png
+cover:		  /assets/images/cover.jpg
+
+social:
+  - icon:	twitter
+    url:	https://twitter.com/kunmingbeer
+    desc:	Follow us on Twitter
+
+  - icon:	facebook
+    url:	https://www.facebook.com/kunmingbeer
+    desc:	Like us on Facebook
+
+  - icon: weibo
+    url:  http://weibo.com/u/5228263128
+    desc: 在微博跟着我们
+
+  - icon:	rss
+    url:	http://kunmingbeer.org/atom.xml
+    desc:	Subscribe to our feed
+
+menu:
+  - title:	Home
+    url:	/
+
+  - title:	About
+    url:	/about.html
+
+  - title:  Members
+    url:  /members.html
+
+  - title:  Files
+    url:  /files.html
+
+copyright:
+  author:	Kunming Homebrewing Society
+  url:		http://kunmingbeer.org
+  type_title:	Some rights reserved
+  type_url:	http://creativecommons.org/licenses/by-nc/2.5
