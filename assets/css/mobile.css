@@ -40,7 +40,8 @@ img.site-icon {
 	transition-duration: .25s;
 }
 
-#article {
+#article,
+#comments {
 	width: 90%;
 	padding: 50px 5%;
 	left: 0px;
