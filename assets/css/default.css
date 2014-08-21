@@ -168,7 +168,8 @@ img.site-icon-page {
 	display: block;
 }
 
-#article {
+#article,
+#comments {
 	font-family: "PT Serif", Georgia, "Times New Roman", serif;
 	font-weight: 400;
 	letter-spacing: 0px;

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Useful Files
+comments: true
 ---
 
 * [Introduction to Brewing](/media/files/introduction-to-brewing--english.pdf), just the basics - what you need and what you do with it

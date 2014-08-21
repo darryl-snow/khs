@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Who reeeeaally likes beer?
+comments: true
 ---
 
 # (2) KHS Members

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Beer is never the answer, it's the question. The answer is "yes please".
+comments: true
 ---
 
 # About the Kunming Homebrewing Society
