@@ -190,6 +190,10 @@ img.site-icon-page {
 	transition: 0.5s ease;
 }
 
+#comments {
+	margin: 0 auto;
+}
+
 a.site-title:hover, .copyright a:hover {
 	text-decoration: underline;
 }
