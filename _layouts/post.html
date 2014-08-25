@@ -18,7 +18,7 @@ comments: true
 		{% if page.quote %}
 			<h2>{{ page.quote }}</h2>
 		{% endif %}
-		<a class="site-title" href="{{ site.url }}"><img src="{{ site.iconsmall }}" class="site-icon-small">{{ site.title }}</a>, in {{ page.date | date_to_long_string }}
+		<a class="site-title" href="{{ site.url }}"><img src="{{ site.iconsmall }}" class="site-icon-small">{{ site.setup.title }}</a>, on {{ page.date | date_to_long_string }}
 	</div>
 	<div id="nav-icon" style="bottom: 60px;">
 		<a class="scroll" data-speed="1000" href="#article"><span class="icon-arrow-down"></span></a>
@@ -63,8 +63,16 @@ comments: true
 	</div>
 
 	{% if page.lang == 'zh' %}
+		{% assign posts=site.posts|where:"date",page.date|where:"lang", 'en'|sort: 'path'| reverse %}
+		{% for post in posts %} 
+		<a href="{{ post.url }}" title="English version" class="language-switcher"><i class="flag-gb"></i> English</a>
+		{% endfor %}
 	<p class="copyright">&copy;{{ site.time | date: "%Y" }}, <a href="{{ site.copyright-zh.url }}" target="_blank">{{ site.copyright-zh.author }}</a>. <a href="{{ site.copyright-zh.type_url }}" target="_blank">{{ site.copyright-zh.type_title }}</a>.</p>
 	{% else %}
+		{% assign posts=site.posts|where:"date",page.date|where:"lang", 'zh'|sort: 'path'| reverse %}
+		{% for post in posts %} 
+		<a href="{{ post.url }}" title="看中文版" class="language-switcher"><i class="flag-cn"></i> 中文版</a>
+		{% endfor %}
 	<p class="copyright">&copy;{{ site.time | date: "%Y" }}, <a href="{{ site.copyright.url }}" target="_blank">{{ site.copyright.author }}</a>. <a href="{{ site.copyright.type_url }}" target="_blank">{{ site.copyright.type_title }}</a>.</p>
 	{% endif %}
 

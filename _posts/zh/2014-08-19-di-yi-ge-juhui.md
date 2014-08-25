@@ -2,7 +2,7 @@
 layout: post
 title: "第一个聚会"
 quote: 昆明自酿啤酒协会的首次聚会
-image: /media/2014-08-20-inaugural-meetup/cover.jpg
+image: /media/2014-08-19-inaugural-meetup/cover.jpg
 video: false
 permalink: /zh/di-yi-ge-juihui
 ---
@@ -12,7 +12,7 @@ permalink: /zh/di-yi-ge-juihui
 ![左到右: 龘龍, Caity, and Nick](/media/2014-08-20-inaugural-meetup/darryl-caity-nick.jpg)
 
 > 想参加下个聚会吗？Want to come to the next meetup? 加入我们的微信群:
-![KHS微信群编码](/media/2014-08-20-inaugural-meetup/qr-code.jpg)
+![KHS微信群编码](/media/qr-code.jpg)
 
 -----
 有什么问题或意见? [联系我们](mailto:hello@kunmingbeer.org).

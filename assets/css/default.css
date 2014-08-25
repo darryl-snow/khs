@@ -459,6 +459,21 @@ input:checked + .menu + * {
 	position: absolute;
 }
 
+.language-switcher {
+	bottom: 10px;
+	left: 20px;
+	margin: 10px 0 20px;
+	position: absolute;
+	text-decoration: none;
+	color: white;
+}
+
+.language-switcher:active,
+.language-switcher:focus,
+.language-switcher:hover {
+	text-decoration: underline;
+}
+
 .copyright a {
 	text-decoration: none;
 }
@@ -473,6 +488,7 @@ input:checked + .menu + * {
 	color: #313131;
 	line-height: 1.5;
 	position: relative;
+	word-wrap: break-word;
 }
 
 #post-list h1 {

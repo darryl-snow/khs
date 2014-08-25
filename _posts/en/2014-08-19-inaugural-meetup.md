@@ -2,7 +2,7 @@
 layout: post
 title: "Inaugural Meetup"
 quote: The very first meeting of the Kunming Homebrewing Society
-image: /media/2014-08-20-inaugural-meetup/cover.jpg
+image: /media/2014-08-19-inaugural-meetup/cover.jpg
 video: false
 ---
 
@@ -11,7 +11,7 @@ And so it began on Saturday the 16th of August 2014, at O'Reilly's Irish Pub on 
 ![From left to right: Darryl, Caity, and Nick](/media/2014-08-20-inaugural-meetup/darryl-caity-nick.jpg)
 
 > Want to come to the next meetup? Join the wechat group for updates:
-![KHS Wechat Group QR Code](/media/2014-08-20-inaugural-meetup/qr-code.jpg)
+![KHS Wechat Group QR Code](/media/qr-code.jpg)
 
 -----
 Have any questions or suggestions? [Get in touch with us](mailto:hello@kunmingbeer.org).
