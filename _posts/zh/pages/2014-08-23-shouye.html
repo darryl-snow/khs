@@ -36,3 +36,11 @@ lang: zh
 	{% endfor %}
 	<p class="copyright">&copy;{{ site.time | date: "%Y" }}, <a href="{{ site.copyright-zh.url }}" target="_blank">{{ site.copyright-zh.author }}</a>. <a href="{{ site.copyright-zh.type_url }}" target="_blank">{{ site.copyright-zh.type_title }}</a>.</p>
 </footer>
+<script>
+	if (navigator.appName == 'Netscape')
+		var language = navigator.language;
+	else 
+		var language = navigator.browserLanguage;
+
+	if (language.indexOf('en') > -1) document.location.href = '/';
+</script>
