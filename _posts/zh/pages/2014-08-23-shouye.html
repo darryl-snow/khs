@@ -30,5 +30,9 @@ lang: zh
 </nav> -->
 </div>
 <footer class="clean" style="background-image: url({{ site.cover }}); background-position: bottom; height: 60px;">
+	{% assign posts=site.posts|where:"date",page.date|where:"lang", 'en'|sort: 'path'| reverse %}
+	{% for post in posts %} 
+	<a href="{{ post.url }}" title="English version" class="language-switcher"><i class="flag-gb"></i> English</a>
+	{% endfor %}
 	<p class="copyright">&copy;{{ site.time | date: "%Y" }}, <a href="{{ site.copyright-zh.url }}" target="_blank">{{ site.copyright-zh.author }}</a>. <a href="{{ site.copyright-zh.type_url }}" target="_blank">{{ site.copyright-zh.type_title }}</a>.</p>
 </footer>

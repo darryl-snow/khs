@@ -32,5 +32,9 @@ permalink: /
 </nav> -->
 </div>
 <footer class="clean" style="background-image: url({{ site.cover }}); background-position: bottom; height: 60px;">
+	{% assign posts=site.posts|where:"date",page.date|where:"lang", 'zh'|sort: 'path'| reverse %}
+	{% for post in posts %} 
+	<a href="{{ post.url }}" title="看中文版" class="language-switcher"><i class="flag-cn"></i> 中文版</a>
+	{% endfor %}
 	<p class="copyright">&copy;{{ site.time | date: "%Y" }}, <a href="{{ site.copyright.url }}" target="_blank">{{ site.copyright.author }}</a>. <a href="{{ site.copyright.type_url }}" target="_blank">{{ site.copyright.type_title }}</a>.</p>
 </footer>
