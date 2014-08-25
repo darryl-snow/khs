@@ -1,18 +1,18 @@
 ---
 layout: post
 title: "第一个聚会"
-quote: The very first meeting of the Kunming Homebrewing Society
+quote: 昆明自酿啤酒协会的首次聚会
 image: /media/2014-08-20-inaugural-meetup/cover.jpg
 video: false
 permalink: /zh/di-yi-ge-juihui
 ---
 
-And so it began on Saturday the 16th of August 2014, at O'Reilly's Irish Pub on Beichen North Street. Following a few posts on (gokunming.com)[http://www.gokunming.com], weixin, and weibo, we arrived not knowing if anyone would turn up. In the end we had a couple of Aussies who are already set to brew! We had a few drinks - Vedett Blond and Beer Lao -, had a look at some equipment and ingredients, and covered the basics of brewing. We're looking forward to trying Caity and Nick's first batch!
+就这样开始了，2014年8月16日在O'Reilly北辰北路的爱尔兰酒吧。发完了几个帖子在(gokunming.com)[http://www.gokunming.com]，微信，和微博，我们来到还不知道会不会没人来参加。最后我们有两个澳大利亚人，而他们已经设置为酿啤酒！我们喝了几杯 － 白熊和老挝啤酒， 又看了一些设备和粮食，讲了酿啤酒的基础知识什么的。我们期待着尝试Caity和尼克的第一批！
 
-![From left to right: Darryl, Caity, and Nick](/media/2014-08-20-inaugural-meetup/darryl-caity-nick.jpg)
+![左到右: 龘龍, Caity, and Nick](/media/2014-08-20-inaugural-meetup/darryl-caity-nick.jpg)
 
-> Want to come to the next meetup? Join the wechat group for updates:
-![KHS Wechat Group QR Code](/media/2014-08-20-inaugural-meetup/qr-code.jpg)
+> 想参加下个聚会吗？Want to come to the next meetup? 加入我们的微信群:
+![KHS微信群编码](/media/2014-08-20-inaugural-meetup/qr-code.jpg)
 
 -----
-Have any questions or suggestions? [Get in touch with us](mailto:hello@kunmingbeer.org).
+有什么问题或意见? [联系我们](mailto:hello@kunmingbeer.org).

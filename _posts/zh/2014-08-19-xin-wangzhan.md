@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "新网站"
-quote: The new home of the KHS
+quote: KHS的新家
 image: false
 video: false
 permalink: /zh/xin-wangzhan
 ---
 
-This is going to be where we post information about meetups, events, classes, seminars, and anything beer-and-Kunming-related. Check back to see what's happening and how you can get involved.
+这将是我们发布有关聚会，活动，课程，研讨会，以及任何啤酒和昆明相关的信息。常回来看看我们发生了什么，以及如何参与。
 
-> What do you think? You can send us your [comments & suggestions](mailto:hello@kunmingbeer.org).
+> 你觉得咋样？给我们发你的 [意见和建议](mailto:hello@kunmingbeer.org).
 
 -----
-Have any questions or suggestions? [Get in touch with us](mailto:hello@kunmingbeer.org).
+有什么问题或意见? [联系我们](mailto:hello@kunmingbeer.org).
