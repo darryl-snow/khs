@@ -6,7 +6,7 @@ image: /media/2014-08-26-september-meetup/cover.jpg
 video: false
 ---
 
-The next meetup will be held at
+The next meetup will be held on **Tuesday the 16th of September** at
 
 **Mu Yu Studio 木鱼摄影棚**
 202 Wenlin Jie, in NorthWest corner of the parking lot behind Summer Lotus, (文林街202号(夏沫莲花后面停车场西北角)

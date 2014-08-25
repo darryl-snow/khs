@@ -7,7 +7,7 @@ video: false
 permalink: /zh/jiuyue-juhui
 ---
 
-我们下个聚会将举行在：
+我们下个聚会将举行在9月16日（星期二）在：
 
 **Mu Yu Studio 木鱼摄影棚**
 文林街202号(夏沫莲花后面停车场西北角
