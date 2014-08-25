@@ -3,7 +3,7 @@
 	<span class="icon-menu"></span>
 </label>
 <div class="menu-content">
-	<div class="menu" style="background-color: #777; z-index: -1;"></div>{% assign items=site.menu | where:"lang", page.lang %}
+	{% assign items=site.menu | where:"lang", page.lang %}
 	{% for item in items %}
 	<a href="{{ item.url }}">{{ item.title }}</a><br>
 	{% endfor %}

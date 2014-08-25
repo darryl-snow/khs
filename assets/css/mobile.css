@@ -14,6 +14,10 @@ h2 {
 	font-size: 28px;
 }
 
+footer {
+	height: 70px;
+}
+
 #post-info {
 	width: 90%;
 	left: 5%;
@@ -60,7 +64,7 @@ img.site-icon {
 }
 
 .menu {
-	background-color: rgba(119, 119, 119, 1);
+	background-color: rgba(0, 0, 0, 0.3);
 	position: absolute;
 }
 
@@ -100,4 +104,10 @@ img.site-icon {
 	width: 100%;
 	text-align: center;
 	float: left;
+}
+
+.language-switcher {
+	left: 50%;
+	margin: 0 0 0 -35px;
+	width:70px;
 }
