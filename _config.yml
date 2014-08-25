@@ -1,21 +1,52 @@
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      lang: en
+      layout: default
+  -
+    scope:
+      path: _posts/zh
+    values:
+      lang: zh
+  -
+    scope:
+      path: _posts/zh/pages
+    values:
+      type: pages
+      lang: zh
+  -
+    scope:
+      path: _posts/en/pages
+    values:
+      type: pages
+
 # Dependencies
 markdown:	redcarpet
-pygments:	true
+highlighter:	true
 
 # Permalinks
 permalink:	/:title
 
 # Setup
-title:		    昆明自酿啤酒协会 Kunming Homebrewing Society
-tagline:      'Brewing beer at home in Kunming 在昆明自酿啤酒'
-description:	'The society dedicated to everything about drinking and brewing craft beer, mead, and cider in Kunming, China. 昆明自酿啤酒协会”是为对自酿啤酒、苹果酒和蜂蜜酒感兴趣的朋友提供的一个分享、交流和学习的平台。We organise monthly events, discussions, and beer tastings, classes and workshops, as well as sponsor an ingredients cooperative. 我们致力于在昆明传播知识、文化和欣赏真正的啤酒。协会是向所有人开放的，无论您是新手还是老手。我们将定期于每个月的第三个周六开展酒吧聚会，地点会安排于不同的酒吧，每次聚会将会根据一个自酿酒话题进行演讲、讨论等，当然还有啤酒品尝！聚会中，我们鼓励大家带自酿的啤酒给大家品尝！欢迎所有感兴趣的朋友参加聚会，即使您不是我们的会员。'
-url:          http://kunmingbeer.org
+setup:
+  title: Kunming Homebrewing Society
+  tagline: 'Brewing beer at home in Kunming'
+  description: 'The society dedicated to everything about drinking and brewing craft beer, mead, and cider in Kunming, China. We organise monthly events, discussions, and beer tastings, classes and workshops, as well as sponsor an ingredients cooperative.'
+  url: http://kunmingbeer.org
+
+setup-zh:
+  title: 昆明自酿啤酒协会
+  tagline: '在昆明自酿啤酒'
+  description: '昆明自酿啤酒协会”是为对自酿啤酒、苹果酒和蜂蜜酒感兴趣的朋友提供的一个分享、交流和学习的平台。我们致力于在昆明传播知识、文化和欣赏真正的啤酒。协会是向所有人开放的，无论您是新手还是老手。我们将定期于每个月的第三个周六开展酒吧聚会，地点会安排于不同的酒吧，每次聚会将会根据一个自酿酒话题进行演讲、讨论等，当然还有啤酒品尝！聚会中，我们鼓励大家带自酿的啤酒给大家品尝！欢迎所有感兴趣的朋友参加聚会，即使您不是我们的会员。'
+  url: http://kunmingbeer.org/zh
 
 author:
-  name:       'Darryl Snow'
-  url:        https://yourweb.expert
+  name: 'Darryl Snow'
+  url: https://yourweb.expert
 
-paginate:	5
+# paginate:	5
 
 # Custom vars
 icon:       /assets/images/logo-white.png
@@ -27,34 +58,74 @@ social:
   - icon:	twitter
     url:	https://twitter.com/kunmingbeer
     desc:	Follow us on Twitter
+    lang: en
 
   - icon:	facebook
     url:	https://www.facebook.com/kunmingbeer
     desc:	Like us on Facebook
+    lang: en
 
   - icon: weibo
     url:  http://weibo.com/u/5228263128
-    desc: 在微博跟着我们
+    desc: Follow us on Weibo
+    lang: en
 
   - icon:	rss
     url:	http://kunmingbeer.org/atom.xml
     desc:	Subscribe to our feed
+    lang: en
+
+  - icon: weibo
+    url:  http://weibo.com/u/5228263128
+    desc: 在微博关注我们
+    lang: zh
+
+  - icon: rss
+    url:  http://kunmingbeer.org/atom.xml
+    desc: 订阅
+    lang: zh
 
 menu:
   - title:	Home
     url:	/
+    lang: en
 
   - title:	About
-    url:	/about.html
+    url:	/about
+    lang: en
 
   - title:  Members
-    url:  /members.html
+    url:  /members
+    lang: en
 
   - title:  Files
-    url:  /files.html
+    url:  /files
+    lang: en
+
+  - title:  首页
+    url:  /zh
+    lang: zh
+
+  - title:  关于我们
+    url:  /zh/guanyu-women
+    lang: zh
+
+  - title:  会员
+    url:  /zh/huiyuan
+    lang: zh
+
+  - title:  文件
+    url:  /zh/wenjian
+    lang: zh
 
 copyright:
   author:	Kunming Homebrewing Society
-  url:		http://kunmingbeer.org
+  url: http://kunmingbeer.org
   type_title:	Some rights reserved
   type_url:	http://creativecommons.org/licenses/by-nc/2.5
+
+copyright-zh:
+  author: 昆明自酿啤酒协会
+  url: http://kunmingbeer.org
+  type_title: 保留部分权利
+  type_url: http://creativecommons.org/licenses/by-nc/2.5

@@ -3,13 +3,13 @@
 	<span class="icon-menu"></span>
 </label>
 <div class="menu-content">
-	<div class="menu" style="background-color: #777; z-index: -1;"></div>
-	{% for item in site.menu %}
+	<div class="menu" style="background-color: #777; z-index: -1;"></div>{% assign items=site.menu | where:"lang", page.lang %}
+	{% for item in items %}
 	<a href="{{ item.url }}">{{ item.title }}</a><br>
 	{% endfor %}
 </div>
-<div class="social-links" data-stellar-ratio="0.1">
-	{% for social in site.social %}
+<div class="social-links" data-stellar-ratio="0.1">{% assign socials=site.social | where:"lang", page.lang %}
+	{% for social in socials %}
 	<a href="{{ social.url }}" target="_blank" title="{{ social.desc }}"><span class="icon-{{ social.icon }}"></span></a>
 	{% endfor %}
 </div>

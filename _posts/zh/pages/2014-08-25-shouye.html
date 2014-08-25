@@ -1,0 +1,34 @@
+---
+layout: default
+title: Home
+permalink: /zh/
+lang: zh
+---
+
+<header class="clean" style="background-image: url({{ site.cover }});" data-stellar-background-ratio="0.5" data-stellar-horizontal-offset="50">
+	{% include top.html %}
+	<div id="home-title" data-stellar-ratio="0.5">
+		<a href="{{ site.url }}">
+			<img src="{{ site.icon }}" class="site-icon">
+		</a>
+	</div>
+</header>
+<div class="main-content">
+{% include list.html %}
+<!-- <nav class="pagination" role="navigation">
+	{% if paginator.next_page %}
+		<a class="newer-posts" href="/page{{paginator.next_page}}">&larr; Older posts</a>
+	{% endif %}
+	<span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+	{% if paginator.previous_page %}
+		{% if paginator.page == 2 %}
+			<a class="older-posts" href="/">Newer posts &rarr;</a>
+		{% else %}
+			<a class="older-posts" href="/page{{paginator.previous_page}}">Newer posts &rarr;</a>
+		{% endif %}
+	{% endif %}
+</nav> -->
+</div>
+<footer class="clean" style="background-image: url({{ site.cover }}); background-position: bottom; height: 60px;">
+	<p class="copyright">&copy;{{ site.time | date: "%Y" }}, <a href="{{ site.copyright-zh.url }}" target="_blank">{{ site.copyright-zh.author }}</a>. <a href="{{ site.copyright-zh.type_url }}" target="_blank">{{ site.copyright-zh.type_title }}</a>.</p>
+</footer>
