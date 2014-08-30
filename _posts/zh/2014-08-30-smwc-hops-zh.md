@@ -2,7 +2,7 @@
 layout: post
 title: "SMWC Hops"
 quote: 昆明最大范围的进口啤酒
-image: /media/2014-08-30-smwc-hops/cover.jpg
+image: /media/2014-08-30-smwc-hops/cover.JPG
 video: false
 permalink: /zh/smwc-hops
 ---
