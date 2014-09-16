@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第一个聚会"
+title: "九月的聚会"
 quote: 2014年09月聚会
 image: /media/2014-08-26-september-meetup/cover.jpg
 video: false
