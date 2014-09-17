@@ -15,7 +15,7 @@ permalink: /zh/smwc-hops
 
 !["SMWC Hops"](/media/2014-08-30-smwc-hops/3.jpg)
 
-不难找，从白云路跟着盘龙江往北走蟠龙东路，过了一排酒吧就到了一个住宅小区，SMWC Hops就在一楼。
+不难找，从白云路跟着盘龙江往北走蟠龙东路，过了一排酒吧就到了一个住宅小区，SMWC Hops就在一楼。地址：昆明市盘龙区盘江东路北泰花园商铺Ds1-111。
 
 !["SMWC Hops地图"](/media/2014-08-30-smwc-hops/map-chinese.png)
 
