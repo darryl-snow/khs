@@ -36,6 +36,11 @@ setup:
   description: 'The society dedicated to everything about drinking and brewing craft beer, mead, and cider in Kunming, China. We organise monthly events, discussions, and beer tastings, classes and workshops, as well as sponsor an ingredients cooperative.'
   url: http://kunmingbeer.org
 
+title: Kunming Homebrewing Society
+tagline: 'Brewing beer at home in Kunming'
+description: 'The society dedicated to everything about drinking and brewing craft beer, mead, and cider in Kunming, China. We organise monthly events, discussions, and beer tastings, classes and workshops, as well as sponsor an ingredients cooperative.'
+url: http://kunmingbeer.org
+
 setup-zh:
   title: 昆明自酿啤酒协会
   tagline: '在昆明自酿啤酒'
