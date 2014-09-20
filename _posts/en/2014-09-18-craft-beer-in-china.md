@@ -65,7 +65,7 @@ in no particular order:
 
 ## Wuhan
 
-- Flying tigers
+- Fighting tiger
 
 ## Hefei
 

@@ -63,7 +63,7 @@ video: false
 
 ## 武汉
 
-- Flying tigers
+- Fighting tiger
 
 ## 合肥
 
