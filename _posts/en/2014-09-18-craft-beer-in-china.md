@@ -51,6 +51,10 @@ in no particular order:
 
 - Bionic brew
 
+## Qingdao
+
+- Calvin Beer Company
+
 ## Nanjing
 
 - ?
@@ -66,6 +70,7 @@ in no particular order:
 ## Wuhan
 
 - Fighting tiger
+- 18 Brewery
 
 ## Hefei
 

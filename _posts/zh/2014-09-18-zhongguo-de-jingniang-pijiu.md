@@ -49,6 +49,10 @@ video: false
 
 - Bionic brew
 
+## 青岛
+
+- Calvin Beer Company
+
 ## 南京
 
 - ?
@@ -64,6 +68,7 @@ video: false
 ## 武汉
 
 - Fighting tiger
+- 18 Brewery
 
 ## 合肥
 
