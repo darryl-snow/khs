@@ -6,6 +6,11 @@ image: /media/2014-09-17-october-meetup/cover.jpg
 video: false
 ---
 
+## 时间:
+
+2014年10月21日（星期二）
+20:30
+
 ## 位置信息:
 
 SMWC Hops是一个品尝啤酒和威士忌的休息厅，刚在北二环内。一个温暖而舒服的地方，只能坐下10个人左右，因为大部分的空间都是给啤酒放的！为了了解更多，他们的巨大酒单(推进你去之前现考虑你要和什么！选择太多！)和地址，地图等等，看我们的这个帖子：[http://kunmingbeer.org/zh/smwc-hops/](http://kunmingbeer.org/zh/smwc-hops/).

@@ -6,6 +6,11 @@ image: /media/2014-09-17-october-meetup/cover.jpg
 video: false
 ---
 
+## When:
+
+Tuesday 21<sup>st</sup> October
+**20:30**
+
 ## Location info:
 
 SMWC Hops is a beer and whiskey tasting lounge just inside the North 2nd Ring Road. It's cosy - enough seating for about 10 people because most of the space is taken up by their gynormous beer selection. For more information on the location and to see the beer menu (you might need to take some time to consider your options before you arrive!) check out the post about it here: [http://kunmingbeer.org/smwc-hops/](http://kunmingbeer.org/smwc-hops/).
