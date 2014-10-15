@@ -51,10 +51,6 @@ in no particular order:
 
 - Bionic brew
 
-## Qingdao
-
-- Calvin Beer Company
-
 ## Nanjing
 
 - ?
