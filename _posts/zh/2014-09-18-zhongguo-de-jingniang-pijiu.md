@@ -49,6 +49,10 @@ video: false
 
 - Bionic brew
 
+## 青岛
+
+- Strong Ale Works
+
 ## 南京
 
 - ?

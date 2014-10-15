@@ -41,6 +41,10 @@ in no particular order:
 - Tipping point
 - Moonzen
 
+## Qingdao
+
+- Strong Ale Works
+
 ## Chengdu
 
 - The beer next
