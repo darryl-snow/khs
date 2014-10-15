@@ -49,10 +49,6 @@ video: false
 
 - Bionic brew
 
-## 青岛
-
-- Calvin Beer Company
-
 ## 南京
 
 - ?
@@ -73,6 +69,7 @@ video: false
 ## 合肥
 
 - Russel brewery (_我们听说过一个brewpub快要开业？_)
+- Calvin Beer Company
 
 -----
 有什么问题或意见? [联系我们](mailto:hello@kunmingbeer.org).
