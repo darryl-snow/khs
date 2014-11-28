@@ -21,7 +21,7 @@ Josh: 156-8705-7757<br>
 
 昆明第一家精酿啤酒厂正在开始开业先邀请了我们过去看看。
 
-!["紫云地图"](/media/2014-11-27-december-meetup/map-english.png)
+!["紫云地图"](/media/2014-11-27-december-meetup/map-chinese.png)
 
 ## 聚会信息:
 
