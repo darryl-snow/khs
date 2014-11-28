@@ -2,7 +2,7 @@
 layout: post
 title: "December 2014 Meetup"
 quote: Boiling & Fermenting
-image: /media/2014-11-05-december-meetup/cover.jpg
+image: /media/2014-11-27-december-meetup/cover.jpg
 video: false
 ---
 
@@ -21,7 +21,7 @@ Jason (杨）:186-6900-3327
 
 This is Kunming's first official microbrewery with a 900L fermenter capacity. They're in the process of opening and have invited us for an early taste.
 
-!["Map to SMWC Hops"](/media/2014-11-05-december-meetup/map-english.png)
+!["Map to Purple Cloud"](/media/2014-11-27-december-meetup/map-english.png)
 
 ## Monthly meetup Info:
 

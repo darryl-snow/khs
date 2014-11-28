@@ -2,7 +2,7 @@
 layout: post
 title: "2014年12月的聚会"
 quote: 煮麦芽汁－发酵
-image: /media/2014-11-05-december-meetup/cover.jpg
+image: /media/2014-11-27-december-meetup/cover.jpg
 video: false
 ---
 
@@ -21,7 +21,7 @@ Josh: 156-8705-7757<br>
 
 昆明第一家精酿啤酒厂正在开始开业先邀请了我们过去看看。
 
-!["Map to SMWC Hops"](/media/2014-11-05-december-meetup/map-english.png)
+!["紫云地图"](/media/2014-11-27-december-meetup/map-english.png)
 
 ## 聚会信息:
 
