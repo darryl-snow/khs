@@ -13,15 +13,11 @@ Tuesday 16<sup>th</sup> December<br>
 
 ## Location info:
 
-Purple Cloud Brewery<br>
-MeiLi JiaYuan<br>
-YuanTong BeiLu<br>
-Josh: 156-8705-7757<br>
-Jason (杨）:186-6900-3327
+Great Australian Bite<br>
+9 Hongshan Dong Lu, Backstreet Block, Building 14-5<br>
+15925158867
 
-This is Kunming's first official microbrewery with a 900L fermenter capacity. They're in the process of opening and have invited us for an early taste.
-
-!["Map to Purple Cloud"](/media/2014-11-27-december-meetup/map-english.png)
+!["Map to Great Australian Bite"](/media/2014-11-27-december-meetup/map-english.png)
 
 ## Monthly meetup Info:
 

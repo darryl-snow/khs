@@ -13,15 +13,11 @@ video: false
 
 ## 位置信息:
 
-紫云啤酒厂<br>
-美丽家园<br>
-圆通北路<br>
-Josh: 156-8705-7757<br>
-杨 (Jason):186-6900-3327
+考拉<br>
+昆明虹山东路9号版筑翠园14幢5号<br>
+159-2515-8867
 
-昆明第一家精酿啤酒厂正在开始开业先邀请了我们过去看看。
-
-!["紫云地图"](/media/2014-11-27-december-meetup/map-chinese.png)
+!["考拉地图"](/media/2014-11-27-december-meetup/map-chinese.png)
 
 ## 聚会信息:
 
