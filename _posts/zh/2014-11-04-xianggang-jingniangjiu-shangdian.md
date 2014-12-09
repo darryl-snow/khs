@@ -4,6 +4,7 @@ title: "HK Brew Craft"
 quote: 昆明最近的精酿酒商店
 image: /media/2014-11-04-hong-kong-brewshop/1.jpg
 video: false
+permalink: /zh/xianggang-jingniangjiu-shangdian
 ---
 
 [Ray](malto:ray.denning@gmail.com) 给我们发了这些照片，是昆明最近的卖自酿啤酒设备和原料的商店，看起来跟美国的brewshop风格一样。如果昆明的啤酒咪要去香港玩啊办签证啊就可以去看看。。。 也可以给我们带回来礼物呵呵。他们还有自娘啤酒的培训。

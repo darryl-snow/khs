@@ -4,6 +4,7 @@ title: "中国的精酿啤酒"
 quote: 都在哪里？
 image: /media/2014-09-18-craft-beer-in-china/cover.jpg
 video: false
+permalink: /zh/zhongguo-de-jingniang-pijiu
 ---
 
 今晚我们昆明的自酿啤酒朋友问我们知不知道网上哪儿有个中国所有精酿啤酒的列子，结果我们不知道了所以就自己写了！请大家下面评论加信息，我们将会慢慢地更新这个列子。

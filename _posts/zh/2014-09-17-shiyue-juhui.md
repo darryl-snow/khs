@@ -4,6 +4,7 @@ title: "2014年10月的聚会"
 quote: 糖化的谈话
 image: /media/2014-09-17-october-meetup/cover.jpg
 video: false
+permalink: /zh/shiyue-juhui
 ---
 
 ## 时间:

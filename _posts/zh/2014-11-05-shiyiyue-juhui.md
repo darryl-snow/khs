@@ -4,6 +4,7 @@ title: "2014年11月的聚会"
 quote: 洗糖
 image: /media/2014-11-05-november-meetup/cover.jpg
 video: false
+permalink: /zh/shiyiyue-juhui
 ---
 
 ## 时间:

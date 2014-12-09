@@ -4,6 +4,7 @@ title: "2014年12月的聚会"
 quote: 煮麦芽汁－发酵
 image: /media/2014-11-27-december-meetup/cover.jpg
 video: false
+permalink: /zh/shieryue-juhui
 ---
 
 ## 时间:
