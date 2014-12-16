@@ -77,5 +77,9 @@ in no particular order:
 - Russel brewery (_I remember reading that a brew pub was opening soon?_)
 - Calvin Beer Company
 
+## Shangrila
+
+- Shangrila brewery
+
 -----
 Have any questions or suggestions? [Get in touch with us](mailto:hello@kunmingbeer.org).

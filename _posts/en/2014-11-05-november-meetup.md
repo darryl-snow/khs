@@ -30,7 +30,7 @@ Everyone knows moondog right? It's a bar near the Kundu night market serving gre
 
 
 This month's topic will be: **Introduction to sparging**
-
+* [The Basics of Lautering - November 2014 Meetup Printout](/media/files/lautering.pdf)
 
 We've also got some announcements to make:
 

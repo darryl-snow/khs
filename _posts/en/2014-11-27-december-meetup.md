@@ -30,6 +30,7 @@ Great Australian Bite<br>
 
 
 This month's topic will be: **Boiling & Fermenting**
+* [Boiling & Fermenting - December 2014 Meetup Printout](/media/files/boiling-and-fermenting.pdf)
 
 
 We've also got the following announcements to make:

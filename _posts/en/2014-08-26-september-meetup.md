@@ -23,6 +23,8 @@ Tel: [(0871) 65377313](tel:087165377313)
 
 This will be another friendly meetup without any particular theme to discuss general brewing and meet other homebrewers in the city.
 
+* [Introduction to Brewing - September 2014 Meetup Printout](/media/files/introduction-to-brewing--english.pdf)
+
 > Want to come to the next meetup? Join the wechat group for updates:
 ![KHS Wechat Group QR Code](/media/qr-code.jpg)
 

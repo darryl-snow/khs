@@ -26,7 +26,7 @@ SMWC Hops is a beer and whiskey tasting lounge just inside the North 2nd Ring Ro
 
 
 This month's topic will be: **Mashing Basics**
-
+* [All About Mashing - October 2014 Meetup Printout](/media/files/mashing.pdf)
 
 This month we'll also be opening official membership. Fees will be ¥50/person for membership lasting until Chinese New Year. Annual membership starting at CNY will be ¥200/person or ¥300/family.
 

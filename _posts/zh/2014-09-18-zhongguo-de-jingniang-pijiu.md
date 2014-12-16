@@ -76,5 +76,9 @@ permalink: /zh/zhongguo-de-jingniang-pijiu
 - Russel brewery (_我们听说过一个brewpub快要开业？_)
 - Calvin Beer Company
 
+## 香格里拉
+
+- 香格里拉啤酒
+
 -----
 有什么问题或意见? [联系我们](mailto:hello@kunmingbeer.org).
