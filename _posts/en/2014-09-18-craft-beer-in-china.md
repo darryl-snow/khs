@@ -47,7 +47,8 @@ in no particular order:
 
 ## Chengdu
 
-- The beer next
+- The beer nest
+- Original Stone
 - Harvest
 - Paulaner
 

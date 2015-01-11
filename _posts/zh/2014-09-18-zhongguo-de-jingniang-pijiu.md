@@ -32,6 +32,7 @@ permalink: /zh/zhongguo-de-jingniang-pijiu
 - Kachelofen
 - Dr. beer
 - The homebrew store
+- Liquid Laundry
 
 ## 香港
 
@@ -42,7 +43,8 @@ permalink: /zh/zhongguo-de-jingniang-pijiu
 
 ## 成都
 
-- The beer next
+- The beer nest
+- 原石
 - Harvest
 - Paulaner
 
