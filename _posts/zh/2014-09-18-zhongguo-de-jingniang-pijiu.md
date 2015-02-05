@@ -72,6 +72,7 @@ permalink: /zh/zhongguo-de-jingniang-pijiu
 
 - Fighting tiger
 - 18 Brewery
+- Four Furnace Brewery
 
 ## 合肥
 

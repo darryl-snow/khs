@@ -72,6 +72,7 @@ in no particular order:
 
 - Fighting tiger
 - 18 Brewery
+- Four Furnace Brewery
 
 ## Hefei
 
