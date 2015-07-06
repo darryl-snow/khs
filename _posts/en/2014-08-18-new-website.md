@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Website"
-quote: The new home of the KHS
+quote: The new home of the KCBS
 image: false
 video: false
 ---

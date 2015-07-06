@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Inaugural Meetup"
-quote: The very first meeting of the Kunming Homebrewing Society
+quote: The very first meeting of the Kunming Craft Beer Society
 image: /media/2014-08-19-inaugural-meetup/cover.jpg
 video: false
 ---

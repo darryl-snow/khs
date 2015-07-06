@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "第一个聚会"
-quote: 昆明自酿啤酒协会的首次聚会
+quote: 昆明精酿啤酒协会的首次聚会
 image: /media/2014-08-19-inaugural-meetup/cover.jpg
 video: false
 permalink: /zh/di-yi-ge-juihui
