@@ -32,6 +32,8 @@ This month we're talking pale ales and we're encouraging everyone to bring their
 
 Anyone can attend for free and everything is presented in both Chinese and English. The only rule is that everyone buys at least 1 beer from the bar.
 
+* [American Pale Ale](/media/files/pale-ale.pdf)
+
 > If you have any trouble finding the location or want to ask anything about the meetup, then either phone on [186-1200-9701](tel:18612009701) or join our [Wechat Group](/media/qr-code.jpg).
 
 -----

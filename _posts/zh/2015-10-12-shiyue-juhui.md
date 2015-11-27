@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2015年09月的聚会
-quote: 啤酒喝食物
+quote: 美式淡色艾尔
 image: /media/2015-10-12-october-2015-meetup/cover.jpg
 video: false
 permalink: /zh/2015nian-shiyue-juhui
@@ -32,6 +32,8 @@ permalink: /zh/2015nian-shiyue-juhui
 这个月我们要谈论美式淡色艾尔，有些人也会带来自己酿的淡啤。我们将会讨论这个啤酒的风格特色以及比较每个自酿的配方和酿酒方法。这间酒吧是有个很特色的进口啤酒选择，特别是IPA。期待！
 
 昆明精酿啤酒协会向所有啤酒迷免费公开，双语交流，唯一的规定是“每位啤酒迷必须在酒吧内消费一瓶啤酒”。
+
+* [美式淡色艾尔](/media/files/pale-ale.pdf)
 
 > 你如果有任何关于聚会的问题或者找不到地方，请打电话[186-1200-9701](tel:18612009701)或加入我们的[微信群](/media/qr-code.jpg).
 
