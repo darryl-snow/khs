@@ -27,6 +27,8 @@ permalink: /zh/2015nian-liuyue-juhui
 
 像往常一样，欢迎任何人来参加！
 
+* [比利时强麦](/media/files/belgian-strong-ales-chinese.pdf)
+
 > 你如果有任何关于聚会的问题或者找不到地方，请打电话[186-1200-9701](tel:18612009701)或加入我们的[微信群](/media/qr-code.jpg).
 
 -----

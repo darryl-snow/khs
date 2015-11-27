@@ -24,6 +24,9 @@ Happiness Bar<br>
 
 Following the last meetup about American Pale Ale, we're going to be talking about the driver of the craft beer movement in the USA - Hops. Of course hops are now used in all beers worldwide, but what kinds of flavours can they impart and what beer styles are they suitable for? Why not use some other kinds of herbs or flowers in beer? How many varieties of hops are there? Find out all this and more at this meetup.
 
+* [All about hops](/media/files/hops.pdf)
+* [Hop varieties](/media/files/hops-varieties.pdf)
+
 > If you have any trouble finding the location or want to ask anything about the meetup, then either phone on [186-1200-9701](tel:18612009701) or join our [Wechat Group](/media/qr-code.jpg).
 
 -----
