@@ -27,7 +27,7 @@ Following the last meetup about American Pale Ale, we're going to be talking abo
 * [All about hops](/media/files/hops.pdf)
 * [Hop varieties](/media/files/hops-varieties.pdf)
 
-> If you have any trouble finding the location or want to ask anything about the meetup, then either phone on [186-1200-9701](tel:18612009701) or join our [Wechat Group](/media/qr-code.jpg).
+> If you have any trouble finding the location or want to ask anything about the meetup, then either phone on [186-6911-7013](tel:18669117013) or join our [Wechat Group](/media/qr-code.jpg).
 
 -----
 Have any questions or suggestions? [Get in touch with us](mailto:hello@kunmingbeer.org).
